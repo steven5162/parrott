@@ -1,0 +1,17 @@
+name: Block non-lab merges into main
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  block-non-lab:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail if PR base is not lab
+        run: |
+          echo "PR is from branch: ${{ github.head_ref }}"
+          if [[ "${{ github.head_ref }}" != "lab" ]]; then
+            echo "Only PRs from 'lab' to 'main' are allowed."
+            exit 1
+          fi
