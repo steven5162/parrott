@@ -3,10 +3,10 @@
 type: misc
 
 # change these
-jobTitle: Blogger
-name: steven5162
+jobTitle: Principal Network Engineer/Architect
+name: Steven Parrott
 bio: true
 icon: ":coffee:"
 ---
 
-Add your Bio here!:+1:
+Owner of [Brookwood Pitstop](https://www.google.com/search?client=firefox-b-d&q=brookwood+pitstop) based in north kent
