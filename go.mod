@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/steven5162/parrott
 
 go 1.24.2
 
