@@ -9,4 +9,4 @@ bio: true
 icon: ":coffee:"
 ---
 
-Owner of [Brookwood Pitstop](https://www.google.com/search?client=firefox-b-d&q=brookwood+pitstop) based in north kent
+Owner of [Brookwood Pitstop](https://www.google.com/search?client=firefox-b-d&q=brookwood+pitstop) based in kent
